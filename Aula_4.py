@@ -5,7 +5,7 @@
 # * 0 ou n vezes
 # + 1 ou n vezes
 # ? 0 ou 1 vezes
-# {} {min, max}}
+# {} {min, max}
 import re
 
 text = '''<p>Texto 1</p><p>Texto 2</p><p>Texto 3</p><div>Texto 4</div>'''
